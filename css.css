@@ -1,0 +1,68 @@
+body{
+    background-color: black;
+    font-family: 'Rampart One', cursive;
+}
+.titulo__principal{
+    text-align: center;
+    font-size: 5rem;
+    font-weight: bold;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    color: rgb(255, 255, 255);
+}
+
+.fotos{
+    margin-left: 60px;
+    margin-right: auto;
+    margin-bottom: 10rem;
+}
+
+.foto1{
+    max-width: 400px;
+}
+
+.foto2{
+    max-width: 400px;
+}
+
+.foto3{
+    max-width: 450px;
+}
+
+.foto4{
+    max-width: 450px;
+}
+
+.foto5{
+    max-width: 360px;
+}
+
+.foto6{
+    max-width: 325px;
+}
+
+.foto7{
+    max-width: 250px;
+    height: 190px;
+}
+
+.foto8{
+    max-width: 350px;
+}
+
+.foto9{
+    max-width: 398px;
+}
+
+.foto10{
+    max-width: 450px;
+}
+ 
+.foto12{
+    max-width: 600px;
+}
+
+.foto13{
+    max-width: 600px;
+    height: 340px;
+}
